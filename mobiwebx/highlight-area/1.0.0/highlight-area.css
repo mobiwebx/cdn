@@ -1,0 +1,26 @@
+/* Define styles for different highlight colors using the CSS Custom Highlight API */
+::highlight(highlight-area-blue) {
+    background-color: rgba(0, 0, 255, 0.3);
+    /* Light blue */
+    /* color: inherit; /* Or set a specific color if needed for contrast */
+}
+
+::highlight(highlight-area-red) {
+    background-color: rgba(255, 0, 0, 0.3);
+    /* Light red */
+}
+
+::highlight(highlight-area-green) {
+    background-color: rgba(0, 128, 0, 0.3);
+    /* Light green */
+}
+
+::highlight(highlight-area-yellow) {
+    background-color: rgba(255, 255, 0, 0.4);
+    /* Light yellow */
+}
+
+::highlight(highlight-area-purple) {
+    background-color: rgba(128, 0, 128, 0.3);
+    /* Light purple */
+}
