@@ -5769,6 +5769,7 @@
   "monaco-editor/0.52.2/package.json",
   "monaco-editor/0.52.2/README.md",
   "monaco-editor/0.52.2/ThirdPartyNotices.txt",
+  "mqtt/5.10.4/mqtt.esm.js",
   "mqtt/5.10.4/mqtt.min.js",
   "oidc-client/1.11.5/oidc-client.js",
   "paho-mqtt/1.0.1/mqttws31.js",
